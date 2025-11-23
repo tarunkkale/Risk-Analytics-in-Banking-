@@ -1,4 +1,4 @@
-Credit Card Customer Risk Analysis – Power BI Project
+ Customer Risk Analysis – Power BI Project
 🔹 Overview
 
 This project focuses on analyzing credit card customers to identify risk patterns, understand customer behaviour, and assist banks in making data-driven decisions regarding risk categories.
